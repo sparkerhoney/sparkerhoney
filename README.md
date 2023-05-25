@@ -46,7 +46,7 @@ Hi! I'm Jae Heon, Research Intern from <a href="http://datasciencelab.kr/"><b>CD
   <tbody>
     <tr>
     <thead align="center">
-      <td><b>'DX-ASTI 수요기반 서비스 모델 추천시스템 개발'</b></a></td>
+      <td><b>DX-ASTI 수요기반 서비스 모델 추천시스템 개발</b></a></td>
       <td>CDSLab, Industrial and Management, Myongji University</td>
       <td>KISTI</td>
       <td>Mar. 2023 ~ Nov. 2023</td>
