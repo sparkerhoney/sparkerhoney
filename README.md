@@ -54,7 +54,7 @@ Hi! I'm Jae Heon, Research Intern from <a href="http://datasciencelab.kr/"><b>CD
 	  <tr>
       <td><b>토픽 토모그래피를 위한 이종 도메인 통합 그래프 신경망 개발</b></a></td>
       <td><center>CDSLab, Industrial and Management, Myongji University</center></td>
-      <td>한국연구재단</td>
+      <td>연구재단</td>
       <td>Jan. 2023 ~ Mar. 2023</td>
       <td>Preprocessing, Developing</td>
     </tr>
