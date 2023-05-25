@@ -1,4 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🍯&fontAlign=70)
+
+ <p align="center"><img src="https://github.com/sparkerhoney/sparkerhoney/assets/108461006/9d0e62a1-d253-4bf8-9937-5a5b7054397b" width="300"/></p>
+
  
 <div align="left">
  
