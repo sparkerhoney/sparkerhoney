@@ -5,7 +5,7 @@
  
 <h3>Hakuna Matata!</h3>
 
-Hi! I'm Jae Heon, Research Intern from <a href="http://datasciencelab.kr/"><b>CDS Lab</b>, </a> School of Industrial and Management Engineering, UNIV.Myung-Ji
+Hi! I'm Jae Heon, Research Intern from <a href="http://datasciencelab.kr/"><b>CDS Lab</b>, </a> School of Industrial and Management Engineering, Myung-Ji UNIV.
   
 ---
   
