@@ -8,7 +8,6 @@
 
 
 
-
 <img src="./assets/rainbow_border.gif" width="100%" height="1px" align="center"/>
 
 <div align="center">
