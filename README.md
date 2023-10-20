@@ -6,7 +6,6 @@
   <img src="./assets/coding_person.gif" width="4.5%" align="right"/>
 </div>
 
-
 <img src="./assets/rainbow_border.gif" width="100%" height="1px" align="center"/>
 
 <div align="center">
