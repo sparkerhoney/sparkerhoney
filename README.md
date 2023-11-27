@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="./assets/coding_person.gif" width="4.5%" align="left"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=5000&pause=50&color=8B0000&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Honey+and+Welcome+to+my+Profile!" alt="Hey, I'm Honey and Welcome to my Profile!" width="90%" align="middle"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=5000&pause=50&color=ff87fb&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Honey+and+Welcome+to+my+Profile!" alt="Hey, I'm Honey and Welcome to my Profile!" width="90%" align="middle"/>
   <img src="./assets/coding_person.gif" width="4.5%" align="right"/>
 </div>
 
