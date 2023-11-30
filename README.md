@@ -18,7 +18,7 @@
 
 <!-- <img align="right" src="./assets/llama3.gif" height="300px" alt="llama image"> -->
 
-<h2 align="center"> 水滴穿石 and passionate about AI 🤖 </h2><br>
+<h2 align="center"> 水滴穿石 </h2><br>
 - 👨🏻‍💻 I'm Honey(Jae Heon Jeong) I'm currently working as a AI Researcher at <a href="https://marketdesigners.com/"><b>MarketDesigners</b></a> company in Korea. <br><br><br>
 - 📝 I’m currently learning AI and ML using Python! <br><br><br>
 - 🖥️ I was Data Science Research Intern from <a href="http://datasciencelab.kr/"><b>CDS Lab</b></a>, School of Industrial and Management Engineering, Myung-Ji UNIV, Korea.
