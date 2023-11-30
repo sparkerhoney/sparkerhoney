@@ -16,7 +16,7 @@
 
 <img src="./assets/rainbow_border.gif" width="100%" height="1.5px" align="center"/>
 
-<img align="right" src="./assets/llama3.gif" height="300px" alt="llama image">
+<!-- <img align="right" src="./assets/llama3.gif" height="300px" alt="llama image"> -->
 
 <h2 align="center"> 水滴穿石 and passionate about AI 🤖 </h2><br>
 - 👨🏻‍💻 I'm Honey(Jae Heon Jeong) I'm currently working as a AI Researcher at <a href="https://marketdesigners.com/"><b>MarketDesigners</b></a> company in Korea. <br><br><br>
@@ -30,7 +30,7 @@
 <img src="./assets/rainbow_border.gif" width="100%" height="1px" align="center"/>
 
 <h2 align="center"> <strong> 🧳 Languages, Frameworks, and Tools </strong></h2>
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,figma,gcp,git,github,html,css,py,supabase,mongodb,mysql,postgresql,ai" alt="skills logos" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,figma,gcp,git,github,html,css,java,supabase,mongodb,mysql,postgresql,ai" alt="skills logos" />
 <br>
 
 <img src="./assets/rainbow_border.gif" width="100%" height="1.5px" align="center"/>
