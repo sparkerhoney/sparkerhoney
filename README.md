@@ -16,7 +16,7 @@
 
 <img src="./assets/rainbow_border.gif" width="100%" height="1.5px" align="center"/>
 
-<!-- <img align="right" src="./assets/llama3.gif" height="300px" alt="llama image"> -->
+<img align="right" src="./assets/llama3.gif" height="300px" alt="llama image">
 
 <h2 align="center"> 水滴穿石 </h2><br>
 - 👨🏻‍💻 I'm Honey(Jae Heon Jeong) I'm currently working as a AI Researcher at <a href="https://marketdesigners.com/"><b>MarketDesigners</b></a> company in Korea. <br><br><br>
